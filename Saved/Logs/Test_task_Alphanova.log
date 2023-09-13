@@ -1243,3 +1243,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.13-18.43.33:151][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.13-18.43.37:184][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.09.13-18.43.39:878][111]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2023.09.13-18.45.09:401][349]LogDerivedDataCache: C:/Users/somel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.122 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 770 files in 1360 folders with total size 58 MiB.
